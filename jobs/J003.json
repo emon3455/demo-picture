@@ -1,0 +1,17 @@
+{
+    "job_id": "J003",
+    "company_logo": "https://github.com/emon3455/demo-picture/blob/main/assets/Logo/tesla-9%201.png?raw=true",
+    "company_name": "TESLA",
+    "job_title": "Data Analyst",
+    "company_location": "Chicago, IL",
+    "salary_range": "$70k - $90k",
+    "job_time": "Part-Time",
+    "job_type": "Remote",
+    "job_description": "TESLA is seeking a data analyst to join our team...",
+    "job_responsibilities": "Analyze data and create reports to provide insights to the business...",
+    "educational_requirements": "Bachelor's degree in Computer Science, Math or related field",
+    "experience": "2+ years of experience in data analysis",
+    "phone": "312-655-1234",
+    "email": "jobs@xyzcorp.com",
+    "address": "456 Oak St, Chicago, IL 60601"
+}
