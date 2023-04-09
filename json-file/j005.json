@@ -1,0 +1,17 @@
+{
+    "job_id": "J005",
+    "company_logo": "https://github.com/emon3455/demo-picture/blob/main/assets/Logo/netflix-4%201.png?raw=true",
+    "company_name": "Netflix",
+    "job_title": "Software Developer",
+    "company_location": "Dallas, TX",
+    "salary_range": "$90k - $110k",
+    "job_time": "Full-Time",
+    "job_type": "Onsite",
+    "job_description": "Netflix is seeking a software developer to join our team...",
+    "job_responsibilities": "Design and develop software applications for our clients...",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "experience": "3+ years of experience in software development",
+    "phone": "214-785-1234",
+    "email": "ABCjobs@abcinc.com",
+    "address": "789 Main St, Dallas, TX 75201"
+  }

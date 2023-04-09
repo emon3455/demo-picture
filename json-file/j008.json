@@ -1,0 +1,18 @@
+
+  {
+    "job_id": "J008",
+    "company_logo": "https://github.com/emon3455/demo-picture/blob/main/assets/All%20Images/google-1-1%201.png?raw=true",
+    "company_name": "Google",
+    "job_title": "Front-end Developer",
+    "company_location": "New York, NY",
+    "salary_range": "$80K - $100K",
+    "job_time": "Part-Time",
+    "job_type": "Remote",
+    "job_description": "Google is seeking a front-end developer to join our team...",
+    "job_responsibilities": "Develop and maintain web applications using HTML, CSS and JavaScript...",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "experience": "3+ years of experience in front-end development",
+    "phone": "212-565-1234",
+    "email": "HIJjobs@hijco.com",
+    "address": "555 Park Ave, New York, NY 10022"
+  }

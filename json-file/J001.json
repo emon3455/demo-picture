@@ -1,0 +1,17 @@
+{
+    "job_id": "J001",
+    "company_logo": "https://github.com/emon3455/demo-picture/blob/main/assets/Logo/google-1-1%201-1.png?raw=true",
+    "company_name": "Google",
+    "job_title": "Marketing Manager",
+    "company_location": "New York, NY",
+    "salary_range": "$80k - $100k",
+    "job_time": "Full-Time",
+    "job_type": "Onsite",
+    "job_description": "Google is seeking an experienced marketing manager to join our team...",
+    "job_responsibilities": "Develop and execute marketing campaigns to drive growth and engagement...",
+    "educational_requirements": "Bachelor's degree in Marketing, Business or related field",
+    "experience": "5+ years of experience in marketing",
+    "phone": "555-123-4567",
+    "email": "jobs@widgetsinc.com",
+    "address": "456 Elm St, New York, NY 10001"
+}

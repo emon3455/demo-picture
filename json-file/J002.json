@@ -1,0 +1,17 @@
+{
+    "job_id": "J002",
+    "company_logo": "https://github.com/emon3455/demo-picture/blob/main/assets/Logo/netflix-4%201.png?raw=true",
+    "company_name": "Netflix",
+    "job_title": "Sales Representative",
+    "company_location": "Los Angeles, CA",
+    "salary_range": "$50k - $70k",
+    "job_time": "Part-Time",
+    "job_type": "Remote",
+    "job_description": "Netflix is seeking a motivated sales representative to join our team...",
+    "job_responsibilities": "Prospect and engage new customers to drive sales of our products...",
+    "educational_requirements": "Associate's degree or equivalent experience",
+    "experience": "1+ years of experience in sales",
+    "phone": "888-695-1234",
+    "email": "jobs@gizmosco.com",
+    "address": "789 Oak St, Los Angeles, CA 90001"
+}
